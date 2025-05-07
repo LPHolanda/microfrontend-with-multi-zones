@@ -1,6 +1,6 @@
 # Micro-frontend's NextJS with Multi-Zones
 
-In this repo i implements two next JS application using micro-frontend architecture.
+This repo has two NextJS applications using micro-frontend architecture with Multi-Zones.
 
 # How to run
 
